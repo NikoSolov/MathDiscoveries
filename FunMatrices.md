@@ -9,6 +9,7 @@ x_{22} & -x_{12} \\
 -x_{21} & x_{11}
 \end{pmatrix}
 $$
+
 $$
 \begin{pmatrix}
 x_{11} & 0 \\ 
@@ -24,6 +25,7 @@ x_{22} & 0 \\
 0 & \frac{1}{x_{22}}
 \end{pmatrix}
 $$
+
 $$
 \begin{pmatrix}
 x_{11} & 0 & 0 \\ 
@@ -42,6 +44,7 @@ x_{22}x_{33} & 0 & 0 \\
 0 & 0 & \frac{1}{x_{33}}
 \end{pmatrix}
 $$
+
 $$
 \begin{pmatrix}
 x_{11} & x_{12} & x_{13} \\ 
